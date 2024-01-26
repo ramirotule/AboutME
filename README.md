@@ -1,33 +1,47 @@
-Hi everyone, I'm Ramiro Toulemonde, Frontend Developer 👋🏼
+# Hi everyone, I'm Ramiro Toulemonde, Frontend Developer 👋🏼
+
 I'm a passionate software engineer specialized in creating modern applications, focused on building solid and highly scalable solutions. My goal is to face new challenges that allow me to apply my experience and knowledge.
 
-Soft Skills
+## Soft Skills 🫂
+```diff
 •	Investigator
 •	Innovative
 •	Capacity to work under pressure
 •	Responsible
-•	Open to discuss in a team work.
-Web Design
+•	Open to discuss in a team work
+```
+## Web Desing 👷🏻‍♂️
+```diff
 •	HTML5
 •	CSS3
-Languages
+```
+## Languages 👨🏻‍💻
+```diff
 •	JavaScript
 •	React Js
 •	TypeScript Language
 •	Visual FoxPro
-Utilities/Libraries
+```
+## Utilities/Libraries 📚
+```diff
 •	Storybook
 •	Material UI
-•	Bootstrap Framework	•	Blueprint JS
+•	Bootstrap Framework
+•	Blueprint JS
 •	Chakra
 •	React Router
 •	Formik
 •	Framer Motion
-Testing
+•	Figma
+```
+## Testing 🧪
+```diff
 •	Selenium Web Driver
 •	Jest
 •	React Testing Library
-Extras
+```
+## Extras ℹ️
+```diff
 •	Bug Resolution
 •	Problem-Solving
 •	Jira and Confluence
@@ -36,3 +50,4 @@ Extras
 •	Scrum Framework
 •	NPM Package Management
 •	Git Version Control
+```
